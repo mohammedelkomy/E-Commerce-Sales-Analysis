@@ -6,7 +6,6 @@ A sophisticated data project demonstrating the full lifecycle of business intell
 
 ## 🏗️ The Tech Stack
 * **Data Engineering:** Python (Pandas, NumPy) for ETL and data sanitization.
-* **Statistical Analysis:** Python (Matplotlib) for exploratory data analysis (EDA).
 * **Business Intelligence:** Power BI (DAX, Data Modeling) for interactive reporting.
 
 ---
@@ -49,3 +48,4 @@ The `Visualization.pbix` dashboard was architected to provide a "Single Source o
 
 
 ---
+
