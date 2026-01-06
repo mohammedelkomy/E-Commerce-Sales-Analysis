@@ -46,6 +46,8 @@ The `Visualization.pbix` dashboard was architected to provide a "Single Source o
 2.  **Logistics:** Optimize shipping in cities where delivery time exceeded 5 days, as it showed a direct negative impact on ratings.
 3.  **Marketing:** Prioritize Mobile-first advertising campaigns given the high mobile conversion rate compared to desktop.
 
-
+### Power BI Dashboard
+![Dashboard Preview](dashboard.png)
 ---
+
 
