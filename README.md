@@ -1,6 +1,6 @@
 # 📈 End-to-End E-Commerce Data Analytics Pipeline
 
-A sophisticated data project demonstrating the full lifecycle of business intelligence—transforming raw Turkish e-commerce transactional data into actionable executive insights using **Python** and **Power BI**.
+A sophisticated data project demonstrating the full lifecycle of business intelligence—transforming raw e-commerce transactional data into actionable executive insights using **Python** and **Power BI**.
 
 ---
 
@@ -46,5 +46,6 @@ The `Visualization.pbix` dashboard was architected to provide a "Single Source o
 1.  **Retention Focus:** Implement a loyalty program to further capitalize on the 88% returning customer rate.
 2.  **Logistics:** Optimize shipping in cities where delivery time exceeded 5 days, as it showed a direct negative impact on ratings.
 3.  **Marketing:** Prioritize Mobile-first advertising campaigns given the high mobile conversion rate compared to desktop.
+
 
 ---
